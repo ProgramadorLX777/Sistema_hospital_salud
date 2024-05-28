@@ -1,0 +1,5 @@
+﻿CREATE TABLE Usuarios (
+    IdUsuario INT PRIMARY KEY IDENTITY(1,1),
+    NombreUsuario VARCHAR(50) UNIQUE NOT NULL,
+    Contraseña VARCHAR(100) NOT NULL
+);

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LecaroX\\Pictures\\Hospital22\\Hospital2\\Hospital2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A885EFDA-A434-4526-8BCF-CD953B34B236}|Hospital\\Hospital.csproj|C:\\Users\\LecaroX\\Pictures\\Hospital22\\Hospital2\\Hospital2\\hospital\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A885EFDA-A434-4526-8BCF-CD953B34B236}|Hospital\\Hospital.csproj|solutionrelative:hospital\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A885EFDA-A434-4526-8BCF-CD953B34B236}|Hospital\\Hospital.csproj|c:\\users\\lecarox\\pictures\\hospital22\\hospital2\\hospital2\\hospital\\pacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A885EFDA-A434-4526-8BCF-CD953B34B236}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A885EFDA-A434-4526-8BCF-CD953B34B236}|Hospital\\Hospital.csproj|C:\\Users\\LecaroX\\Pictures\\Hospital22\\Hospital2\\Hospital2\\hospital\\pacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A885EFDA-A434-4526-8BCF-CD953B34B236}|Hospital\\Hospital.csproj|solutionrelative:hospital\\pacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pacientes.cs",
+              "DocumentMoniker": "C:\\Users\\LecaroX\\Pictures\\Hospital22\\Hospital2\\Hospital2\\Hospital\\Pacientes.cs",
+              "RelativeDocumentMoniker": "Hospital\\Pacientes.cs",
+              "ToolTip": "C:\\Users\\LecaroX\\Pictures\\Hospital22\\Hospital2\\Hospital2\\Hospital\\Pacientes.cs",
+              "RelativeToolTip": "Hospital\\Pacientes.cs",
+              "ViewState": "AQIAAI4CAAAAAAAAAAAwwJgCAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:24:11.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\LecaroX\\Pictures\\Hospital22\\Hospital2\\Hospital2\\Hospital\\Login.cs",
+              "RelativeDocumentMoniker": "Hospital\\Login.cs",
+              "ToolTip": "C:\\Users\\LecaroX\\Pictures\\Hospital22\\Hospital2\\Hospital2\\Hospital\\Login.cs",
+              "RelativeToolTip": "Hospital\\Login.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAB4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T12:26:35.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pacientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LecaroX\\Pictures\\Hospital22\\Hospital2\\Hospital2\\Hospital\\Pacientes.cs",
+              "RelativeDocumentMoniker": "Hospital\\Pacientes.cs",
+              "ToolTip": "C:\\Users\\LecaroX\\Pictures\\Hospital22\\Hospital2\\Hospital2\\Hospital\\Pacientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Hospital\\Pacientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T03:55:06.064Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
